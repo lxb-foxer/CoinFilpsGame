@@ -1,7 +1,7 @@
 # 基于QT5实现的翻金币小游戏
 **有音效、动画特效**
 ## 游戏演示
-https://github.com/lxb-foxer/CoinFilpsGame/assets/75427939/e195044b-7530-4c5b-aaae-950a61d3b34d
+![CoinFilps](https://github.com/lxb-foxer/CoinFilpsGame/assets/75427939/350e9ef5-acf7-4f0e-abc2-5309487a5708)
 ## 效果图
 ### 首页
 ![image](https://github.com/lxb-foxer/CoinFilpsGame/assets/75427939/f9f98b26-0862-40a9-a11d-54432b0b1f2e)
